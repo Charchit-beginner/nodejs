@@ -1,0 +1,17 @@
+{
+  "name": "npmtut",
+  "version": "1.0.0",
+  "description": "this is the best",
+  "main": "nodenpmtut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "best"
+  ],
+  "author": "charchit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
